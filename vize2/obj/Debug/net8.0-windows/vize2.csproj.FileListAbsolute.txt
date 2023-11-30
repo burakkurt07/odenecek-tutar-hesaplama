@@ -1,0 +1,16 @@
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\bin\Debug\net8.0-windows\vize2.exe
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\bin\Debug\net8.0-windows\vize2.deps.json
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\bin\Debug\net8.0-windows\vize2.runtimeconfig.json
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\bin\Debug\net8.0-windows\vize2.dll
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\bin\Debug\net8.0-windows\vize2.pdb
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\vize2.Form1.resources
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\vize2.csproj.GenerateResource.cache
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\vize2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\vize2.AssemblyInfoInputs.cache
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\vize2.AssemblyInfo.cs
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\vize2.csproj.CoreCompileInputs.cache
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\vize2.dll
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\refint\vize2.dll
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\vize2.pdb
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\vize2.genruntimeconfig.cache
+C:\Users\Burak Kurt\Desktop\akdeniz uygulama\29-11-2023 uyuglama sınavı\vize2\vize2\obj\Debug\net8.0-windows\ref\vize2.dll
